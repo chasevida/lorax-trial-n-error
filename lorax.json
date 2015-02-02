@@ -3,6 +3,7 @@
   "commit": "/commit/%s",
   "type": [
     "^chore",
+    "^docs",
     "^fix",
     "^feat",
     "^refactor",
@@ -10,6 +11,7 @@
   ],
   "display": {
     "chore": "Chore",
+    "docs": "Documentation",
     "fix": "Bug Fixes",
     "feat": "Features",
     "breaking": "Breaking Changes",
