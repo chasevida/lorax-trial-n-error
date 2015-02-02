@@ -1,0 +1,19 @@
+{
+  "issue": "/issues/%s",
+  "commit": "/commit/%s",
+  "type": [
+    "^chore",
+    "^fix",
+    "^feat",
+    "^refactor",
+    "BREAKING"
+  ],
+  "display": {
+    "chore": "Chore",
+    "fix": "Bug Fixes",
+    "feat": "Features",
+    "breaking": "Breaking Changes",
+    "refactor": "Optimizations"
+  },
+  "url": "https://github.com/chasevida/lorax-trial-n-error"
+}
